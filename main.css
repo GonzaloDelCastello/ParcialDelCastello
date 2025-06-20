@@ -1,0 +1,33 @@
+.barra {
+background-color: aquamarine;
+   
+}
+
+.lista {
+    background-color: red;
+    display: flex;
+    margin: 15px;
+    gap: 50px;
+    
+}
+
+h1 {
+    background-color: azure;
+    text-align: center;
+    font-size: 60px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.tabla {
+    background-color: aqua;
+    font-size: 40px;
+    border-color: black;
+
+}
+th, td{
+    border: 1 solid;
+}
